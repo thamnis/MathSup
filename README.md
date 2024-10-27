@@ -4,9 +4,9 @@ A MathSupCode repo to automate calculs. College level.
 # Contents 
 - [Features](#features)
 - [Usage](#usage)
-<Documentaion>
 - [Build](#build)
 - [Issues](#Issues)
+<Documentaion>
 
 # Features
 MathSupCode contains just some features for moment.
